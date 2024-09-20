@@ -1,6 +1,6 @@
 # Hi, I'm Praneeth 👋
 
-Welcome to my GitHub! I'm a passionate **Data Engineer** with over 3 years of experience working in **Big Data**, **Hadoop Ecosystem**, **Cloud Engineering**, and **Data Warehousing**. I enjoy building efficient data pipelines, solving complex data challenges, and turning raw data into actionable insights.
+I'm a passionate **Data Engineer** with over 3 years of experience working in **Big Data**, **Hadoop Ecosystem**, **Cloud Engineering**, and **Data Warehousing**. I enjoy building efficient data pipelines, solving complex data challenges, and turning raw data into actionable insights.
 
 ## 💻 What I Do
 - Build scalable **ETL processes** to streamline data from various sources
